@@ -139,3 +139,20 @@ GPT-4는 월 20달러를 지불하는 유료 서비스인 챗GPT플러스(ChatGP
 # 회고
 
 생각보다 어렵네요. 매뉴얼을 보면서 차근차근 하면 그냥 잘 해결될 줄 알았는데 막히는 것도 많고요. 그래도 그루분들이랑 수시로 토의하면서  해결되는 건 좋은 것 같습니다.
+
+
+---
+### PR & Merge
+
+안녕하세요! pr, merge복습 합니다 !
+
+fork(repo -> my repo) 
+-> clone(my repo -> local) 
+-> 내용수정 
+-> (add - commit -)push 
+-> pull request 
+-> MERGE!
+
+
+
+
